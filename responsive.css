@@ -15,14 +15,20 @@
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .lesson {
-    width: 100%;
+    width: 50%;
   }
 
-  .header-right {
+  .extra2 h2 {
+      height: 50px;
+      margin-top: 500px;
+      padding-bottom: 15px;
+    }
+
+  .header-right{
     display: none;
   }
 
   .each-profile{
-    width:100%
+    width: 100%;
   }
 }
